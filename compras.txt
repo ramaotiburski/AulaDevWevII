@@ -1,0 +1,5 @@
+arroz
+massa
+feijão
+carne
+cerveja
